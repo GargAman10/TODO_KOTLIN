@@ -9,6 +9,7 @@ Data Persistence: Task data is stored in Firebase Firestore, allowing for cloud-
 User Authentication: Firebase Authentication ensures secure login for users.
 Dark/Light Mode: The interface adapts to the device’s light/dark mode settings.
 Clean Architecture: Adheres to MVVM/Clean Architecture principles for better maintainability and separation of concerns.
+
 Tech Stack
 Kotlin: The primary language for Android development.
 MVVM / Clean Architecture: Ensures separation of concerns and testability.
